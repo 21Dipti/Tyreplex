@@ -11,7 +11,7 @@ const Navbar = () => {
       <div className="navbar-menu">
         <ul className="navbar-nav">
           <li className="nav-item">
-            <a href="#">Car Tyres</a>
+            <a href="car tyres">Car Tyres</a>
             <div className="dropdown-menu">
               <h3>Popular Car Tyre Brands</h3>
               <ul>
@@ -23,7 +23,7 @@ const Navbar = () => {
             </div>
           </li>
           <li className="nav-item">
-            <a href="#">Bike Tyres</a>
+            <a href="Bike tyres">Bike Tyres</a>
             <div className="dropdown-menu">
               <h3>Popular Bike Tyre Brands</h3>
               <ul>
@@ -35,10 +35,10 @@ const Navbar = () => {
             </div>
           </li>
           <li className="nav-item">
-            <a href="#">Tyre Pressure</a>
+            <a href="tyre Pressure">Tyre Pressure</a>
           </li>
           <li className="nav-item">
-            <a href="#">Commercial Tyres</a>
+            <a href="Commercial">Commercial Tyres</a>
             <div className="dropdown-menu">
               <h3>Commercial Tyres</h3>
               <ul>
@@ -49,7 +49,7 @@ const Navbar = () => {
             </div>
           </li>
           <li className="nav-item">
-            <a href="#">Accessories</a>
+            <a href="accessories">Accessories</a>
             <div className="dropdown-menu">
               <h3>Accessories</h3>
               <ul>
@@ -59,7 +59,7 @@ const Navbar = () => {
             </div>
           </li>
           <li className="nav-item">
-            <a href="#">More</a>
+            <a href="more">More</a>
             <div className="dropdown-menu">
               <ul>
                 <li>Cashback Offer</li>
